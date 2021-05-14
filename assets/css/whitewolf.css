@@ -1,0 +1,38 @@
+.card.border-dark {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 5px;
+  border: none;
+}
+
+.copyright {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.card-text {
+  color: white;
+}
+
+.card-header {
+  background-color: transparent;
+}
+
+.card-body {
+  background-color: transparent;
+}
+
+.card.border-dark {
+  background-color: transparent;
+}
+
+.border-dark {
+  border-color: white;
+}
+
+.d-flex.card-footer {
+  background-color: transparent;
+}
+
